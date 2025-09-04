@@ -1,42 +1,25 @@
-
 ## Hi there 👋 I'm Rasiga  
 
-✨ Welcome to my GitHub profile!  
+Aspiring **Data Analyst / Data Scientist** passionate about turning data into insights and building impactful ML models.  
+Currently learning **SQL, Data Visualization (Tableau/Power BI), and Advanced ML techniques**.  
 
+---
 
-### 🔭 About Me  
-- 💡 Passionate about solving problems using **data-driven insights** and building impactful ML models.  
-- 🚀 Actively seeking **internship opportunities** in Data Analytics, Data Science, and related fields.  
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
-### 🌱 Currently Learning  
-- **Data Visualization** & storytelling with Tableau/Power BI  
-- **SQL** for analytics and database management  
+---
 
-### 👯 Looking to Collaborate On  
-- Open-source **data analysis / ML projects**  
-- Real-world datasets that need exploration and modeling  
-- Innovative projects in **AI, ML, and Business Analytics**  
-
-### 🤔 Looking for Help With  
-- Cracking **data science internships** and competitive analytics projects  
- 
-
-### 😄 Pronouns  
-She/Her  
-
-### ⚡ Fun Fact  
-I enjoy exploring **real-world business problems** and turning them into **data challenges**. Also, I love combining creativity with logic to tell stories through data 📊.  
-<!--
-**rasigababu/rasigababu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me on [LinkedIn](https://linkedin.com/in/rasigababu)  
+😄 Pronouns: She/Her  
+⚡ Fun fact: I love turning **real-world problems** into **data challenges** 📊  

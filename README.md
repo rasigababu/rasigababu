@@ -1,4 +1,7 @@
-## Hi there 👋
+
+## Hi there 👋 I'm Rasiga  
+
+✨ Welcome to my GitHub profile!  
 
 <!--
 **rasigababu/rasigababu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

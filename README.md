@@ -19,7 +19,7 @@ Currently learning **SQL, Data Visualization (Tableau/Power BI), and Advanced ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![MLP](https://img.shields.io/badge/MLP-Multi--Layer%20Perceptron-4B8BBE?style=for-the-badge)
+![ML](https://img.shields.io/badge/ML-Machine%20Learning-102230?style=for-the-badge)
 
 
 ---

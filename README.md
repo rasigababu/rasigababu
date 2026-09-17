@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Rasiga  
 
 Aspiring **Data Analyst / Data Scientist** passionate about turning data into insights and building impactful ML models.  
-Currently learning **SQL, Data Visualization (Tableau/Power BI), Advanced ML techniques, and NLP**.  
+Currently learning Advanced ML techniques and NLP
 
 ---
 
@@ -26,6 +26,6 @@ Currently learning **SQL, Data Visualization (Tableau/Power BI), Advanced ML tec
 ---
 
 📫 Reach me on [LinkedIn](https://linkedin.com/in/rasigababu)  
-📧 Email: raisgababu09@gmail.com  
+📧 Email: rasigababu09@gmail.com  
 😄 Pronouns: She/Her  
 ⚡ Fun fact: I love turning **real-world problems** into **data challenges** 📊  
